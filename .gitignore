@@ -1,1 +1,2 @@
-/bin/
+#Ignoro todos los ficheros con extensión .class
+*.class
